@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Demandseeker Solutions - AI Hunter | B2B Contact Discovery & Email Enrichment",
   description:
     "Transform your B2B sales with AI-powered contact discovery and email enrichment. Find verified decision-makers and close more deals with AI Hunter.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords:
     "AI-powered prospecting, contact discovery, lead intelligence, ai hunter, B2B sales tools, email verification, sales automation",
   openGraph: {
